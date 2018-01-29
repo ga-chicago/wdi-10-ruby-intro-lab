@@ -112,7 +112,7 @@ Write a method `convert_time` that takes a parameter `num`. The method should re
 ```ruby
 convert_time 63
 ```
-> "2:3"
+> "1:3"
 
 ```ruby
 convert_time 90
