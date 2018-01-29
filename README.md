@@ -141,5 +141,5 @@ Solve these Ruby problems:
 
 # Hungry for Even More??
 
-Do these [Ruby challenge problems](https://github.com/ga-chicago/RUBY_CHALLENGE_PROBLEMS.md)
+Do these [Ruby challenge problems](https://github.com/ga-chicago/RUBY_CHALLENGE_PROBLEMS/blob/master/README.md)
 
